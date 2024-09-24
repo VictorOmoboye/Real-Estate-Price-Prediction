@@ -18,5 +18,6 @@ The real estate market is inherently volatile and influenced by a variety of fac
 - Create calculated fields and bulid visualizations
 - Design the dashboard layout
 # MODELLING
-![image](https://github.com/user-attachments/assets/dd9bb5f7-2c46-4146-a134-7dbc04d1386e)
+![MODEL](https://github.com/user-attachments/assets/1cdcb362-6298-4e82-96af-f2d3d27f4c5c)
+
 
