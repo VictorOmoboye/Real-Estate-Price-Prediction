@@ -25,3 +25,6 @@ I conducted data cleaning in Tableau, utilizing filter functions to remove null 
 - Line Chart
 - Bubble Chart
 - KPIs
+# DATA ANALYSIS
+## Bar Chart
+![image](https://github.com/user-attachments/assets/de398cd4-703c-4197-8297-c9a7a26eb12e)
