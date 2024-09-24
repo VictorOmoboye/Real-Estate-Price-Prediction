@@ -33,4 +33,5 @@ This visualization analyzes and highlights the top five house styles by sales vo
 This visualization also identifies the top 10 neighborhoods ranked by average sale price, providing valuable insights into the most sought-after locations in the market. By showcasing the neighborhoods with the highest average sale prices, the analysis highlights areas of premium value and demand, offering key information for potential buyers, investors, and real estate professionals. Understanding these high-performing neighborhoods helps stakeholders make strategic decisions regarding property investments, pricing strategies, and market positioning, ultimately enhancing their ability to capitalize on emerging market trends.
 ![image](https://github.com/user-attachments/assets/28c8559c-bdea-48f1-af91-742cc211b6bc)
 
+## Line Chart
 
