@@ -14,6 +14,6 @@ The real estate market is inherently volatile and influenced by a variety of fac
 # SKILL & CONCEPT DEMOSTRATED
 - Business Understanding 
 - Data Understanding & Preparation 
-- Data import into *Tableau*
+- Data import into Tableau
 - Create calculated fields and bulid visualizations
 - Design the dashboard layout
