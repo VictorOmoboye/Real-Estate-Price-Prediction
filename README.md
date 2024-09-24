@@ -18,6 +18,7 @@ The real estate market is inherently volatile and influenced by a variety of fac
 - Create calculated fields and bulid visualizations
 - Design the dashboard layout
 # MODELLING
+I conducted data cleaning in Tableau, utilizing filter functions to remove null values and ensuring that each column was appropriately formatted (e.g., Date, Text, Number) for accurate analysis. Additionally, I implemented various modeling techniques to enhance house price prediction, including trend analysis, time series forecasting, and regression modeling. By visualizing the relationships between key variables such as location, property size, and market conditions, Tableau facilitated the identification of patterns and correlations that influence house prices, providing deeper insights into the factors driving market dynamics.
 ![MODEL](https://github.com/user-attachments/assets/1cdcb362-6298-4e82-96af-f2d3d27f4c5c)
 
 
