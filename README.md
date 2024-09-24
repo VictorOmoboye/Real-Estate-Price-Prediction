@@ -27,4 +27,5 @@ I conducted data cleaning in Tableau, utilizing filter functions to remove null 
 - KPIs
 # DATA ANALYSIS
 ## Bar Chart
+This visualization reveal the Top 5 House Style by sales including thier average price which are **1Story Building(1Story), 2Story Building(2Story), 1.5 Story Finish(1.5Fin), Split Level(SLvl), Split Foyer(SFoyer)**.
 ![image](https://github.com/user-attachments/assets/de398cd4-703c-4197-8297-c9a7a26eb12e)
