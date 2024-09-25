@@ -38,7 +38,7 @@ This visualization also identifies **the top 10 neighborhoods ranked by average 
 ![image](https://github.com/user-attachments/assets/28c8559c-bdea-48f1-af91-742cc211b6bc)
 
 This trend chart visualizes the relationship between overall quality and average sale price, demonstrating a clear positive correlation: as the overall quality of a house increases, so does its sale price. This analysis highlights the significant impact of property quality on market valuation, emphasizing the premium buyers are willing to pay for higher-quality homes. By identifying this trend, the visualization provides valuable insights for investors, developers, and real estate professionals aiming to enhance property features that drive higher sales prices, thereby maximizing investment returns and aligning with market demand.
-![image](https://github.com/user-attachments/assets/eb027870-7406-4a1d-b18a-be71917eec4e)
+![image](https://github.com/user-attachments/assets/828e96d2-115d-4845-a0be-c55ad8b50a0d)
 
 This visualization displays the distribution of houses based on the number of bedrooms, indicating a normal distribution pattern. The analysis reveals that 3-bedroom homes are the most common, with a count of 804, followed by 2-bedroom homes with 358, and 4-bedroom homes with 213. In contrast, 8-bedroom homes are the least common, with a count of just 1. This distribution highlights market preferences, emphasizing the popularity of mid-sized homes, and provides valuable insights for developers and investors looking to align their offerings with buyer demand.
 ![image](https://github.com/user-attachments/assets/41391bcf-8b31-4b57-9fe5-59cb06433441)
