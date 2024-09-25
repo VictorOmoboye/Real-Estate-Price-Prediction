@@ -77,3 +77,6 @@ Based on the insights derived from the visualizations and analysis, here are som
 - Optimize Marketing Campaigns Develop targeted marketing campaigns that highlight the unique selling points of the top house styles and neighborhoods. Use data-driven insights to communicate the value proposition of investing in these high-demand areas.
 
 These recommendations aim to guide **Blue Ark Realty** in making strategic decisions that leverage market trends, enhance customer satisfaction, and drive sustainable growth in the real estate market.
+
+# THANK YOU
+For more information, you can email me (omoboyevictor97@gmail.com)
