@@ -41,3 +41,6 @@ This trend line chart illustrates the relationship between the year a property w
 This bubble chart visualizes the distribution of house sales by sales type, highlighting the dominance of Warranty Deed (WD) transactions, followed by Cash on Delivery (COD) and New Construction (NEW) sales. The chart provides a clear representation of the prevalence of each sales type in the market, offering insights into buyer preferences and transaction methods. Understanding these patterns helps stakeholders identify the most common sales processes, tailor marketing strategies, and optimize sales approaches to align with market trends, ultimately enhancing decision-making in property transactions.
 ![image](https://github.com/user-attachments/assets/23c7a86a-6044-4223-80a9-8fc627b6d68a)
 
+## KPIs
+![image](https://github.com/user-attachments/assets/c71e39b7-b34d-401c-b1e3-bf780e316228)
+
