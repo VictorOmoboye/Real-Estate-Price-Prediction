@@ -34,4 +34,6 @@ This visualization also identifies **the top 10 neighborhoods ranked by average 
 ![image](https://github.com/user-attachments/assets/28c8559c-bdea-48f1-af91-742cc211b6bc)
 
 ## Line Chart
+This trend line chart illustrates the relationship between the year a property was remodeled and its average sale price, revealing key trends in how renovations impact market value over time. By analyzing the variations in average sales price across different remodel years, the visualization provides insights into the added value of property upgrades, helping stakeholders understand the market's response to home improvements. This analysis is crucial for homeowners, investors, and real estate professionals seeking to assess the potential return on investment from remodeling and to make data-driven decisions on property enhancements.
+![image](https://github.com/user-attachments/assets/aa5c4bed-d82a-4fe6-a6de-1378a78208fc)
 
