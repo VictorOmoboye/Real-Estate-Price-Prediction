@@ -81,6 +81,6 @@ Based on the insights derived from the visualizations and analysis, here are som
 These recommendations aim to guide **Blue Ark Realty** in making strategic decisions that leverage market trends, enhance customer satisfaction, and drive sustainable growth in the real estate market.
 
 ## THANK YOU
-For more information, you can email me (omoboyevictor97@gmail.com)
+For more information, you can contact me
 ![WhatsApp Image 2024-09-25 at 6 02 53 PM](https://github.com/user-attachments/assets/f750ef0c-4162-4e8b-bf9a-ef696d4e2b03)
 
