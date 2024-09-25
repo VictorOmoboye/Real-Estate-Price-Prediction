@@ -28,7 +28,7 @@ I conducted data cleaning in Tableau, utilizing filter functions to remove null 
 # DATA ANALYSIS
 ## Bar Chart
 This visualization analyzes and highlights **the top five house styles by sales volume**, providing insights into their average sale prices. The top-performing styles include **1-Story Buildings (1Story), 2-Story Buildings (2Story), 1.5-Story Finished Homes (1.5Fin), Split Level Homes (SLvl), and Split Foyer Homes (SFoyer)**. By examining these styles, the analysis reveals market preferences and the relative value of each design, helping stakeholders understand buyer trends and the most lucrative house styles in the market. This information is crucial for making data-driven decisions in real estate investments and marketing strategies.
-![image](https://github.com/user-attachments/assets/de398cd4-703c-4197-8297-c9a7a26eb12e)
+![image](https://github.com/user-attachments/assets/a63c87d7-66dd-4630-8b79-058e2e9b0bf0)
 
 This visualization also identifies **the top 10 neighborhoods ranked by average sale price**, providing valuable insights into the most sought-after locations in the market. By showcasing the neighborhoods with the highest average sale prices, the analysis highlights areas of premium value and demand, offering key information for potential buyers, investors, and real estate professionals. Understanding these high-performing neighborhoods helps stakeholders make strategic decisions regarding property investments, pricing strategies, and market positioning, ultimately enhancing their ability to capitalize on emerging market trends.
 ![image](https://github.com/user-attachments/assets/28c8559c-bdea-48f1-af91-742cc211b6bc)
