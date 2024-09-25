@@ -82,3 +82,5 @@ These recommendations aim to guide **Blue Ark Realty** in making strategic decis
 
 ## THANK YOU
 For more information, you can email me (omoboyevictor97@gmail.com)
+![WhatsApp Image 2024-09-25 at 6 02 53 PM](https://github.com/user-attachments/assets/f750ef0c-4162-4e8b-bf9a-ef696d4e2b03)
+
