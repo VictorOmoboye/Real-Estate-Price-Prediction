@@ -54,3 +54,5 @@ This bubble chart visualizes the distribution of house sales by sales type, high
 The Key Performance Indicators (KPIs) provide a comprehensive overview of Blue Ark Realty’s market performance. The total revenue generated is $264 million, with 1,460 houses sold across 8 distinct house styles, reflecting the diversity of offerings in the market. Additionally, the average quality rating of 6.1 underscores the standard of properties sold, highlighting a balanced market appeal in terms of design and construction quality. These KPIs offer critical insights into sales performance, product diversity, and quality benchmarks, enabling stakeholders to assess overall business health and strategic positioning in the real estate market.
 ![image](https://github.com/user-attachments/assets/c71e39b7-b34d-401c-b1e3-bf780e316228)
 
+# DASHBOARD REVIEW
+![Dashboard 1](https://github.com/user-attachments/assets/d214029e-239f-460d-be90-0ee20995864e)
