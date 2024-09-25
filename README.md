@@ -42,7 +42,7 @@ This trend chart illustrates the sales price trends by the month of the sale dat
 
 ## Bubble Chart
 This bubble chart visualizes the distribution of house sales by sales type, highlighting the dominance of Warranty Deed (WD) transactions, followed by Cash on Delivery (COD) and New Construction (NEW) sales. The chart provides a clear representation of the prevalence of each sales type in the market, offering insights into buyer preferences and transaction methods. Understanding these patterns helps stakeholders identify the most common sales processes, tailor marketing strategies, and optimize sales approaches to align with market trends, ultimately enhancing decision-making in property transactions.
-![image](https://github.com/user-attachments/assets/23c7a86a-6044-4223-80a9-8fc627b6d68a)
+![image](https://github.com/user-attachments/assets/ebf3d020-de8e-45de-a894-7e5e00f19e14)
 
 ## KPIs
 The Key Performance Indicators (KPIs) provide a comprehensive overview of Blue Ark Realty’s market performance. The total revenue generated is $264 million, with 1,460 houses sold across 8 distinct house styles, reflecting the diversity of offerings in the market. Additionally, the average quality rating of 6.1 underscores the standard of properties sold, highlighting a balanced market appeal in terms of design and construction quality. These KPIs offer critical insights into sales performance, product diversity, and quality benchmarks, enabling stakeholders to assess overall business health and strategic positioning in the real estate market.
