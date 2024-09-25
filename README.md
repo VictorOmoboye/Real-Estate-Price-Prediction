@@ -48,7 +48,8 @@ This trend line chart illustrates the impact of remodel year on average sales pr
 ![image](https://github.com/user-attachments/assets/aa5c4bed-d82a-4fe6-a6de-1378a78208fc)
 
 This trend chart illustrates the sales price trends by the month of the sale date, revealing a consistent seasonality pattern with price peaks typically occurring between March and July each year from 2006 to 2010. Additionally, a six-month forward forecast, generated using Tableau's time series forecasting indicator, extends this analysis, providing an estimate of future price movements. This visualization not only highlights seasonal market dynamics but also equips stakeholders with predictive insights, enabling proactive planning and strategic decision-making based on anticipated market conditions.
-![image](https://github.com/user-attachments/assets/156d10ea-ba56-429e-b811-7a2daa22929a)
+![image](https://github.com/user-attachments/assets/490a90fe-dfc7-4420-9ecd-96d3eaa25d9d)
+
 
 ## Bubble Chart
 This bubble chart visualizes the distribution of house sales by sales type, highlighting the dominance of Warranty Deed (WD) transactions, followed by Cash on Delivery (COD) and New Construction (NEW) sales. The chart provides a clear representation of the prevalence of each sales type in the market, offering insights into buyer preferences and transaction methods. Understanding these patterns helps stakeholders identify the most common sales processes, tailor marketing strategies, and optimize sales approaches to align with market trends, ultimately enhancing decision-making in property transactions.
