@@ -56,7 +56,8 @@ This bubble chart visualizes the distribution of house sales by sales type, high
 ![image](https://github.com/user-attachments/assets/ebf3d020-de8e-45de-a894-7e5e00f19e14)
 
 # DASHBOARD REVIEW
-![Dashboard 1](https://github.com/user-attachments/assets/d214029e-239f-460d-be90-0ee20995864e)
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/ee1079bb-96f1-4c29-8f64-455c43ddcb31)
+
 
 # RECOMENDATIONS
 Based on the insights derived from the visualizations and analysis, here are some strategic recommendations for decision-making in the real estate market:
