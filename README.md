@@ -45,7 +45,7 @@ This visualization displays the distribution of houses based on the number of be
 
 ## Line Chart
 This trend line chart illustrates the impact of remodel year on average sales price, revealing significant fluctuations over time. Notably, the lowest decrease occurred in 1992, with average sales prices dropping to $172k. A pronounced parabolic uptrend emerged between 2004 and 2010, with average sales prices peaking at $340k, highlighting a period of substantial market appreciation. This analysis underscores the influence of renovation timing on property value, providing valuable insights for investors and homeowners on the potential financial returns of remodeling during specific market cycles.
-![image](https://github.com/user-attachments/assets/aa5c4bed-d82a-4fe6-a6de-1378a78208fc)
+![image](https://github.com/user-attachments/assets/b1812a97-8d7f-4d78-9eb4-aeeda9018fa1)
 
 This trend chart illustrates the sales price trends by the month of the sale date, revealing a consistent seasonality pattern with price peaks typically occurring between March and July each year from 2006 to 2010. Additionally, a six-month forward forecast, generated using Tableau's time series forecasting indicator, extends this analysis, providing an estimate of future price movements. This visualization not only highlights seasonal market dynamics but also equips stakeholders with predictive insights, enabling proactive planning and strategic decision-making based on anticipated market conditions.
 ![image](https://github.com/user-attachments/assets/490a90fe-dfc7-4420-9ecd-96d3eaa25d9d)
