@@ -21,11 +21,15 @@ The real estate market is inherently volatile and influenced by a variety of fac
 I conducted data cleaning in Tableau, utilizing filter functions to remove null values and ensuring that each column was appropriately formatted (e.g., Date, Text, Number) for accurate analysis. Additionally, I implemented various modeling techniques to enhance house price prediction, including trend analysis and time series forecasting. By visualizing the relationships between key variables such as location, house style, and market conditions, providing deeper insights into the factors driving market dynamics.
 ![MODEL](https://github.com/user-attachments/assets/1cdcb362-6298-4e82-96af-f2d3d27f4c5c)
 # VISUALIZATION
+- KPIs
 - Bar Chart
 - Line Chart
 - Bubble Chart
-- KPIs
 # DATA ANALYSIS
+## KPIs
+The Key Performance Indicators (KPIs) provide a comprehensive overview of Blue Ark Realty’s market performance. The total revenue generated is $264 million, with 1,460 houses sold across 8 distinct house styles, reflecting the diversity of offerings in the market. Additionally, the average quality rating of 6.1 underscores the standard of properties sold, highlighting a balanced market appeal in terms of design and construction quality. These KPIs offer critical insights into sales performance, product diversity, and quality benchmarks, enabling stakeholders to assess overall business health and strategic positioning in the real estate market.
+![image](https://github.com/user-attachments/assets/c71e39b7-b34d-401c-b1e3-bf780e316228)
+
 ## Bar Chart
 This visualization analyzes and highlights **the top five house styles by sales volume**, providing insights into their average sale prices. The top-performing styles include **1-Story Buildings (1Story), 2-Story Buildings (2Story), 1.5-Story Finished Homes (1.5Fin), Split Level Homes (SLvl), and Split Foyer Homes (SFoyer)**. By examining these styles, the analysis reveals market preferences and the relative value of each design, helping stakeholders understand buyer trends and the most lucrative house styles in the market. This information is crucial for making data-driven decisions in real estate investments and marketing strategies.
 ![image](https://github.com/user-attachments/assets/a63c87d7-66dd-4630-8b79-058e2e9b0bf0)
@@ -49,10 +53,6 @@ This trend chart illustrates the sales price trends by the month of the sale dat
 ## Bubble Chart
 This bubble chart visualizes the distribution of house sales by sales type, highlighting the dominance of Warranty Deed (WD) transactions, followed by Cash on Delivery (COD) and New Construction (NEW) sales. The chart provides a clear representation of the prevalence of each sales type in the market, offering insights into buyer preferences and transaction methods. Understanding these patterns helps stakeholders identify the most common sales processes, tailor marketing strategies, and optimize sales approaches to align with market trends, ultimately enhancing decision-making in property transactions.
 ![image](https://github.com/user-attachments/assets/ebf3d020-de8e-45de-a894-7e5e00f19e14)
-
-## KPIs
-The Key Performance Indicators (KPIs) provide a comprehensive overview of Blue Ark Realty’s market performance. The total revenue generated is $264 million, with 1,460 houses sold across 8 distinct house styles, reflecting the diversity of offerings in the market. Additionally, the average quality rating of 6.1 underscores the standard of properties sold, highlighting a balanced market appeal in terms of design and construction quality. These KPIs offer critical insights into sales performance, product diversity, and quality benchmarks, enabling stakeholders to assess overall business health and strategic positioning in the real estate market.
-![image](https://github.com/user-attachments/assets/c71e39b7-b34d-401c-b1e3-bf780e316228)
 
 # DASHBOARD REVIEW
 ![Dashboard 1](https://github.com/user-attachments/assets/d214029e-239f-460d-be90-0ee20995864e)
