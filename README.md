@@ -28,7 +28,7 @@ I conducted data cleaning in Tableau, utilizing filter functions to remove null 
 - Bubble Chart
 # DATA ANALYSIS
 ## KPIs
-The Key Performance Indicators (KPIs) provide a comprehensive overview of Blue Ark Realty’s market performance. The total revenue generated is $264 million, with 1,460 houses sold across 8 distinct house styles, reflecting the diversity of offerings in the market. Additionally, the average quality rating of 6.1 underscores the standard of properties sold, highlighting a balanced market appeal in terms of design and construction quality. These KPIs offer critical insights into sales performance, product diversity, and quality benchmarks, enabling stakeholders to assess overall business health and strategic positioning in the real estate market.
+The Key Performance Indicators (KPIs) provide a comprehensive overview of Blue Ark Realty’s market performance. The **total revenue generated is $264 million**, with **1,460 houses sold across 8 distinct house styles**, reflecting the diversity of offerings in the market. Additionally, the **average quality rating of 6.1** underscores the standard of properties sold, highlighting a balanced market appeal in terms of design and construction quality. These KPIs offer critical insights into sales performance, product diversity, and quality benchmarks, enabling stakeholders to assess overall business health and strategic positioning in the real estate market.
 ![image](https://github.com/user-attachments/assets/c71e39b7-b34d-401c-b1e3-bf780e316228)
 
 ## Bar Chart
