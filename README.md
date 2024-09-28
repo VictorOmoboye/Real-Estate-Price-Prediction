@@ -11,7 +11,7 @@ The real estate market is inherently volatile and influenced by a variety of fac
 - Enable users to explore relationships between various factors (e.g., quality, location) and house prices.
 - Enhance decision making capabilities for real estate professionals by providing actionable insights from analysis.
 - Create a forecast using historical data to estimate future house prices.
-- Provide recomendations to assist the stakeholder in decision making.
+- Use insights to make recommendations for enhancing business profitability.
 # SKILL & CONCEPT DEMOSTRATED
 - Business Understanding 
 - Data Understanding & Preparation 
