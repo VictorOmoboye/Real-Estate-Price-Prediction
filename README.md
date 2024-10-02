@@ -1,37 +1,37 @@
 # REAL ESTATE PRICE PREDICTION
-### Leveraging Tableau for Predicting house prices using historical data and provide insights into  key factors influencing the real estate market.
+## Leveraging Tableau for Predicting house prices using historical data and provide insights into  key factors influencing the real estate market.
 ![image](https://github.com/user-attachments/assets/a8d3942e-0baf-4e01-aad9-70bc9f1619df)
-# INTRODUCTION
+## INTRODUCTION
 This project leverages advanced data analytics and historical trends to accurately forecast real estate prices at **BLUE ARK REALITY**, providing valuable insights into key market drivers and enabling stakeholders to make informed decisions in the complex real estate market. By employing cutting-edge tools and methodologies, including Tableau for powerful data visualization, the project transforms complex data into actionable insights, highlighting the factors influencing house prices. Blue Ark Realty's commitment to a data-driven approach enhances customer experience, optimizes operations, and fosters sustainable communities, empowering buyers and sellers to navigate the market with confidence.
-# PROBLEM STATEMENT
+## PROBLEM STATEMENT
 The real estate market is inherently volatile and influenced by a variety of factors such as location, quality of materials, and market conditions. Traditional methods often fall short in capturing the nuanced patterns that contribute to price fluctuations. The challenge lies in observing theses pattern and predicting future outcomes using historical and current data to provide accurate insights into house prices.
-# AIM OF THE PROJECT
+## AIM OF THE PROJECT
 - Analyze data on real estate sales and observe patterns and trends within the data.
 - Develop an interactive Tableau dashboard that visualizes key real estate metrics.
 - Enable users to explore relationships between various factors (e.g., quality, location) and house prices.
 - Enhance decision making capabilities for real estate professionals by providing actionable insights from analysis.
 - Create a forecast using historical data to estimate future house prices.
 - Use insights to make recommendations for enhancing business profitability.
-# SKILL & CONCEPT DEMOSTRATED
+## SKILL & CONCEPT DEMOSTRATED
 - Business Understanding 
 - Data Understanding & Preparation 
 - Data import into **Tableau**
 - Create calculated fields and bulid visualizations
 - Design the dashboard layout
-# MODELLING
+## MODELLING
 I conducted data cleaning in Tableau, utilizing filter functions to remove null values and ensuring that each column was appropriately formatted (e.g., Date, Text, Number) for accurate analysis. Additionally, I implemented various modeling techniques to enhance house price prediction, including trend analysis and time series forecasting. By visualizing the relationships between key variables such as location, house style, and market conditions, providing deeper insights into the factors driving market dynamics.
 ![MODEL](https://github.com/user-attachments/assets/1cdcb362-6298-4e82-96af-f2d3d27f4c5c)
-# VISUALIZATION
+## VISUALIZATION
 - KPIs
 - Bar Chart
 - Line Chart
 - Bubble Chart
-# DATA ANALYSIS
-## KPIs
+## DATA ANALYSIS
+### KPIs
 The Key Performance Indicators (KPIs) provide a comprehensive overview of Blue Ark Realty’s market performance. The **total revenue generated is $264 million**, with **1,460 houses sold across 8 distinct house styles**, reflecting the diversity of offerings in the market. Additionally, the **average quality rating of 6.1** underscores the standard of properties sold, highlighting a balanced market appeal in terms of design and construction quality. These KPIs offer critical insights into sales performance, product diversity, and quality benchmarks, enabling stakeholders to assess overall business health and strategic positioning in the real estate market.
 ![image](https://github.com/user-attachments/assets/c71e39b7-b34d-401c-b1e3-bf780e316228)
 
-## Bar Chart
+### Bar Chart
 This visualization analyzes and highlights **the top five house styles by sales volume**, providing insights into their average sale prices. The top-performing styles include **1-Story Buildings (1Story), 2-Story Buildings (2Story), 1.5-Story Finished Homes (1.5Fin), Split Level Homes (SLvl), and Split Foyer Homes (SFoyer)**. By examining these styles, the analysis reveals market preferences and the relative value of each design, helping stakeholders understand buyer trends and the most lucrative house styles in the market. This information is crucial for making data-driven decisions in real estate investments and marketing strategies.
 ![image](https://github.com/user-attachments/assets/a63c87d7-66dd-4630-8b79-058e2e9b0bf0)
 
@@ -44,7 +44,7 @@ This trend chart visualizes the relationship between overall quality and average
 This visualization displays the distribution of houses based on the number of bedrooms, indicating a normal distribution pattern. The analysis reveals that 3-bedroom homes are the most common, with a count of 804, followed by 2-bedroom homes with 358, and 4-bedroom homes with 213. In contrast, 8-bedroom homes are the least common, with a count of just 1. This distribution highlights market preferences, emphasizing the popularity of mid-sized homes, and provides valuable insights for developers and investors looking to align their offerings with buyer demand.
 ![image](https://github.com/user-attachments/assets/41391bcf-8b31-4b57-9fe5-59cb06433441)
 
-## Line Chart
+### Line Chart
 This trend line chart illustrates the impact of remodel year on average sales price, revealing significant fluctuations over time. Notably, the lowest decrease occurred in 1992, with average sales prices dropping to $172k. A pronounced parabolic uptrend emerged between 2004 and 2010, with average sales prices peaking at $340k, highlighting a period of substantial market appreciation. This analysis underscores the influence of renovation timing on property value, providing valuable insights for investors and homeowners on the potential financial returns of remodeling during specific market cycles.
 ![image](https://github.com/user-attachments/assets/b1812a97-8d7f-4d78-9eb4-aeeda9018fa1)
 
@@ -52,15 +52,15 @@ This trend chart illustrates the sales price trends by the month of the sale dat
 ![image](https://github.com/user-attachments/assets/490a90fe-dfc7-4420-9ecd-96d3eaa25d9d)
 
 
-## Bubble Chart
+### Bubble Chart
 This bubble chart visualizes the distribution of house sales by sales type, highlighting the dominance of Warranty Deed (WD) transactions, followed by Cash on Delivery (COD) and New Construction (NEW) sales. The chart provides a clear representation of the prevalence of each sales type in the market, offering insights into buyer preferences and transaction methods. Understanding these patterns helps stakeholders identify the most common sales processes, tailor marketing strategies, and optimize sales approaches to align with market trends, ultimately enhancing decision-making in property transactions.
 ![image](https://github.com/user-attachments/assets/ebf3d020-de8e-45de-a894-7e5e00f19e14)
 
-# DASHBOARD REVIEW
+## DASHBOARD REVIEW
 ![Dashboard 1 (1)](https://github.com/user-attachments/assets/ee1079bb-96f1-4c29-8f64-455c43ddcb31)
 
 
-# RECOMENDATIONS
+## RECOMENDATIONS
 Based on the insights derived from the visualizations and analysis, here are some strategic recommendations for decision-making in the real estate market:
 
 - Focus on high-performing house styles by emphasize marketing efforts and investments in top-selling house styles such as 1-Story, 2-Story, 1.5-Story Finished, Split Level, and Split Foyer homes, as they consistently achieve higher sales volumes and favorable average prices.
