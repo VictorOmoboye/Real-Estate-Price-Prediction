@@ -60,7 +60,7 @@ This bubble chart visualizes the distribution of house sales by sales type, high
 ![Dashboard 1 (1)](https://github.com/user-attachments/assets/ee1079bb-96f1-4c29-8f64-455c43ddcb31)
 
 
-## RECOMENDATIONS
+## RECOMMENDATIONS
 Based on the insights derived from the visualizations and analysis, here are some strategic recommendations for decision-making in the real estate market:
 
 - Focus on high-performing house styles by emphasize marketing efforts and investments in top-selling house styles such as 1-Story, 2-Story, 1.5-Story Finished, Split Level, and Split Foyer homes, as they consistently achieve higher sales volumes and favorable average prices.
