@@ -83,5 +83,5 @@ These recommendations aim to guide **Blue Ark Realty** in making strategic decis
 
 ## THANK YOU
 For more information, you can contact me
-![WhatsApp Image 2024-09-25 at 6 02 53 PM](https://github.com/user-attachments/assets/f750ef0c-4162-4e8b-bf9a-ef696d4e2b03)
+![image](https://github.com/user-attachments/assets/ca32a1f6-9134-497f-a323-93ed43d18607)
 
